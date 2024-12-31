@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Shraddha Deshmukh</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"> -->
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha-deshmukh2119&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha-deshmukh2119" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddha-deshmukh2119" alt="shraddha-deshmukh2119" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭I’m interested in:**Data Analysis ,Exploring innovative technologies,Analyzing data to drive impactful decisions, Discovering and applying emerging technologies, Converting raw datasets into actionable insights, Addressing real-world challenges with data solutions**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 **I’m currently learning:** <br>1] Python for Data Analysis<br> 2] SQL Data Visualization (Tableau, Power BI) <br>3] Pandas, NumPy, Matplotlib,scikit-learn<br>4] Fundamentals of Machine Learning
 
-- 📫 How to reach me **shraddhabdeshmukh2110@gmail.com**
+- 👯 **I’m looking to collaborate on:**<br> 1] Hands-on data storytelling projects <br>2] Interactive dashboards and data visualization initiatives<br>3] Data wrangling and preprocessing tasks<br>4] Exploratory data analysis to uncover hidden patterns
 
-- ⚡ Fun fact **I think I am Funny.**
+- 📫 How to reach me: **shraddhabdeshmukh2110@gmail.com**
+
+- ⚡ Fun fact **I love unraveling complex datasets to uncover clear, actionable insights and leveraging technology to create meaningful business transformations!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha-deshmukh2119&show_icons=true&locale=en" alt="shraddha-deshmukh2119" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-deshmukh2119&" alt="shraddha-deshmukh2119" /></p>
+
